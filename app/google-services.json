@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "562882714005",
+    "firebase_url": "https://my-app-745cf.firebaseio.com",
+    "project_id": "my-app-745cf",
+    "storage_bucket": "my-app-745cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562882714005:android:fc8f7b1d8d17b8bc",
+        "android_client_info": {
+          "package_name": "com.sarrawi.hekam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562882714005-vd5rs4rtl851dbklffirn87q84u5p0q5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sarrawi.hekam",
+            "certificate_hash": "3493d36851dcb63f77a6718e60a726c00fd72414"
+          }
+        },
+        {
+          "client_id": "562882714005-uo5sqapdgfnahtni67h1bpqpe74c7aeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTz2BObOebO_h4-NrZ00J4PwPZw4bKPh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562882714005-uo5sqapdgfnahtni67h1bpqpe74c7aeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

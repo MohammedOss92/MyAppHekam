@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sarrawi.hekam">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/as"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/as"
+        android:supportsRtl="false"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/title_activity_settings"></activity>
+        <activity
+            android:name=".ActivityText"
+            android:label=""
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Text"
+            android:label=""
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".SetActivity"
+            android:label="@string/title_activity_set"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".SettingActivity" />
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".PagerMessage"
+            android:label="@string/title_activity_pager_message"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Pager_Amthal"
+            android:label="@string/title_activity_pager_message"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".MsgActivity"
+            android:label="@string/title_activity_msg"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".fav.FavActivity"
+            android:label="@string/title_activity_fav"
+            android:theme="@style/aa" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+    </application>
+
+</manifest>

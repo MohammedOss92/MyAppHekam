@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#ffffff</color>
+    <color name="tabSelectedTextColor">#000000</color>
+    <color name="BackgroundSnackBarColor">#FFCCBC</color>
+    <color name="TextSnackBarColor">#000000</color>
+    <color name="ActionSnackBarColor">#0D47A1</color>
+    <color name="colorCardBackground">#ffffff</color>
+    <color name="CBackground">#F5F5F5</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="a">#213DF3</color>
+
+    ///////////
+    <color name="aa">#2196f3</color>
+    <color name="aaa">#1565c0</color>
+    <color name="aaaa">#ff3030</color>
+    <color name="aaaja">#fffafafa</color>
+    <color name="aaas">#f6fdf3</color>
+</resources>
